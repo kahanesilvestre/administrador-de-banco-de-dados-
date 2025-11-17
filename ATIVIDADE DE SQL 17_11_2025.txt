@@ -1,0 +1,21 @@
+﻿Frases
+1. "Verifique quais produtos estão com o estoque zerado no momento."- DQL
+2. "Crie uma tabela que se relacione com os clientes ativos e seus telefones."-DDL
+3. "Crie um ponto de segurança aqui, antes de aplicar o lote de atualizações."-TCL
+4. "Aumente o limite de crédito de todos os clientes VIP em 15%."-DML
+5. "Conte quantos pedidos foram feitos na última semana."-DQL
+6. "Altere o tipo de dado da coluna 'preço' para aceitar mais casas decimais."-DDL
+7. "Mostre o valor total de vendas por região, agrupando os resultados."- DQL
+8. "Salve permanentemente as alterações da transferência bancária."- TCL
+9. "Elimine a tabela 'logs_antigos’."- DDL
+10. "Precisamos adicionar um índice na coluna 'CPF' para acelerar as buscas."-DDL
+11. "Tire a permissão de 'delete' do estagiário na tabela 'clientes'."- DCL
+12. "Delete da tabela todos os comentários que foram marcados como spam."-DML
+13. "Ops, deu erro! Reverta a transação até o último 'ponto de segurança' que criamos."-TCL
+14. "Liste todos os clientes que moram no estado do Rio de Janeiro."-DQL
+15. "Vamos remover a restrição de 'chave única' da tabela 'produtos'."-DDL
+16. "Conceda ao perfil 'auditoria' acesso de leitura em todo o banco de dados."-DCL
+17. "Cadastre estes 10 novos fornecedores no sistema."-DML
+18. "Os 5 funcionários com os salários mais baixos"-DQL
+19. "O usuário 'relatorios_financeiros' precisa de permissão para ler a tabela 'vendas'."-DCL
+20. "É preciso registrar a entrada de 50 unidades do produto 'X' no estoque."-DML
